@@ -19,7 +19,7 @@ The analysis supports program monitoring, fiduciary oversight, and evidence-base
 ## Dataset Summary
 - **Total Interviews:** 1,787 CDC members  
 - **CDCs Covered:** 236  
-- **Provinces:** 21 (≈62% national coverage)  
+- **Provinces:** 21  
 - **Gender Distribution:**  
   - Male: 54%  
   - Female: 46%  
@@ -71,16 +71,16 @@ screenshots/ → Key figures and tables for quick review
 ---
 ## Sample Visual Outputs
 
-### Gender Distribution of CDC Members
+### Geographic Distribution of CDC Members
 ![Geographic distribution](screenshots/plot_1.png)
 
-### CDC Member Activity Status
+### CDC Member Position
 ![Role distribution](screenshots/plot_3.png)
 
-### CDC Role Distribution
+### Dominant Responses
 ![Structural Distributions](screenshots/table_2.png)
 
-### Sample Analytical Table
+### Member Response Distribution
 ![Distrbution_Analysis Table](screenshots/table_1.png)
 
 ---
