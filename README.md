@@ -71,14 +71,14 @@ screenshots/ → Key figures and tables for quick review
 ---
 ## Sample Visual Outputs
 
-### Geographic Distribution of CDC Members
+### Geographic Distribution
 ![Geographic distribution](screenshots/plot_1.png)
 
 ### CDC Member Position
 ![Role distribution](screenshots/plot_3.png)
 
 ### Dominant Responses
-![Structural Distributions](screenshots/table_2.png)
+![Structural Distributions](screenshots/table_3.png)
 
 ### Member Response Distribution
 ![Distrbution_Analysis Table](screenshots/table_1.png)
