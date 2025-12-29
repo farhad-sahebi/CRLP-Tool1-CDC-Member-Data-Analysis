@@ -69,7 +69,21 @@ screenshots/ → Key figures and tables for quick review
 - Comprehensive analytical report in PDF format
 
 ---
+## Sample Visual Outputs
 
+### Gender Distribution of CDC Members
+![Gender Distribution](screenshots/plot_1.png)
+
+### CDC Member Activity Status
+![Member Status](screenshots/plot_2.png)
+
+### CDC Role Distribution
+![Role Distribution](screenshots/plot_3.png)
+
+### Sample Analytical Table
+![Summary Table](screenshots/table_1.png)
+
+---
 ## Tools & Technologies
 - R
 - dplyr
