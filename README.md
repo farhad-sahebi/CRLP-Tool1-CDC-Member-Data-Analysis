@@ -72,16 +72,27 @@ screenshots/ → Key figures and tables for quick review
 ## Sample Visual Outputs
 
 ### Gender Distribution of CDC Members
-![Gender Distribution](screenshots/plot_1.png)
+![Geographic distribution](screenshots/plot_1.png)
 
 ### CDC Member Activity Status
-![Member Status](screenshots/plot_2.png)
+![Role distribution](screenshots/plot_3.png)
 
 ### CDC Role Distribution
-![Role Distribution](screenshots/plot_3.png)
+![Structural Distributions](screenshots/table_2.png)
 
 ### Sample Analytical Table
-![Summary Table](screenshots/table_1.png)
+![Distrbution_Analysis Table](screenshots/table_1.png)
+
+---
+
+## Reproducible R Workflow
+
+The analysis was implemented using a structured and reproducible R workflow.  
+Scripts are organized by analytical stage (audit, cleaning, analysis, visualization).
+
+![R Script Analysis](screenshots/R_1.png)
+![R Script Patterns](screenshots/R_2.png)
+![R Script Visualization](screenshots/R_3.png)
 
 ---
 ## Tools & Technologies
